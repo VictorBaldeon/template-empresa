@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "title": " ",
+      "items": [
+        {
+          "title": "Frutilla",
+          "description": "Propiedades energizantes y antioxidantes",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.70"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/frutilla.jpg"
+        },
+        {
+          "title": "Mango",
+          "description": "Rico en fibra ayuda a la digestión",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/mango.jpg"
+        },
+        {
+          "title": "Coco",
+          "description": "Propiedades antioxidantes. Rico en grasas vegetales",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.90"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.50"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.70"
+            }
+          ],
+          "image": "/images/coco.jpg"
+        },
+        {
+          "title": "Durazno",
+          "description": "Ayuda al transito intestinal. Rico en antioxidantes",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "2.30"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.30"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.50"
+            }
+          ],
+          "image": "/images/durazno.jpg"
+        },
+        {
+          "title": "Guanabana",
+          "description": "Rico en fibra, ayuda a la digesti­ón",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "2.30"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.50"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.90"
+            }
+          ],
+          "image": "/images/guanabana.jpg"
+        },
+        {
+          "title": "Piña",
+          "description": "Baja en calorias. Combate la obesidad",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/pina.jpg"
+        },
+        {
+          "title": "Guayaba",
+          "description": "Naturalmente hidratante y contiene muy pocas calorias",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/guayaba.jpg"
+        },
+        {
+          "title": "Limon",
+          "description": "Fruta diuretica con poder antibacteriano",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/limon.jpg"
+        },
+        {
+          "title": "Manzana",
+          "description": "Antioxidante y rica en fibra soluble",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/manzana.jpg"
+        },
+        {
+          "title": "Maracuya",
+          "description": "Antioxidante y rica en fibra",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "2.30"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.50"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.70"
+            }
+          ],
+          "image": "/images/maracuya.jpg"
+        },
+        {
+          "title": "Mora",
+          "description": "Rica en vitaminas y minerales. Refuerzan el sistema inmune",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "2.05"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.50"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.70"
+            }
+          ],
+          "image": "/images/mora.jpg"
+        },
+        {
+          "title": "Naranjilla",
+          "description": "Fruta diuretica, ayuda a la presion arterial y la migraña",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/naranjilla.jpg"
+        },
+        {
+          "title": "Naranja",
+          "description": "Poder antioxidante y favorece la cicatrizacion",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.50"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "-"
+            }
+          ],
+          "image": "/images/naranja.jpg"
+        },
+        {
+          "title": "Tamarindo",
+          "description": "Fuente de fibra con propiedades propiedades laxantes, diureticas astringentes, antipireticas",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.70"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.00"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/tamarindo.jpg"
+        },
+        {
+          "title": "Tomate de arbol",
+          "description": "Rico en fibra bajo en calorias. Ayuda a reducir el colesterol",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/tomatearbol.jpg"
+        },
+        {
+          "title": "Araza",
+          "description": "Rico en minerales, antioxidantes",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.70"
+            },
+            {
+              "title": "1Kg",
+              "value": "3.00"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/araza.jpg"
+        },
+        {
+          "title": "Taxo",
+          "description": "Posee efecto tranquilizante y actua como un antinflamatorio natural",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "1.50"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/taxo.jpg"
+        },
+        {
+          "title": "Papaya",
+          "description": "Propiedades cicatrizantes. Rico en fibra",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "-"
+            }
+          ],
+          "image": "/images/papaya.jpg"
+        },
+        {
+          "title": "Melon",
+          "description": "Alto contenido en agua y poco aporte calorico excelente para bajar de peso",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "-"
+            }
+          ],
+          "image": "/images/melon.jpg"
+        },
+        {
+          "title": "Sandia",
+          "description": "Efecto diuretico e hidratante",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "-"
+            }
+          ],
+          "image": "/images/sandia.jpg"
+        },
+        {
+          "title": "Mix Tropical",
+          "description": "Lo mejor de la banana, mango manzana y naranja",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/tropical.jpg"
+        },
+        {
+          "title": "Mix Frutal",
+          "description": "La mejor de la frutilla, banana y un refrescante toque de limon",
+          "prices": [
+            {
+              "title": "500g",
+              "value": "-"
+            },
+            {
+              "title": "1Kg",
+              "value": "2.80"
+            },
+            {
+              "title": "10 UNI DE 100g c/u",
+              "value": "3.00"
+            }
+          ],
+          "image": "/images/frutal.jpg"
+        }
+      ]
+    }
+  ],
+  "title": "Template Kalupa",
+  "description": "Hola mundo"
+}

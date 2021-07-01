@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "aspect": "4x4",
+      "photo": "/images/descarga-2-.jpeg",
+      "link": "/",
+      "info": {
+        "info": {
+          "title": "Titulo",
+          "subtitle": "Subtitulo"
+        }
+      }
+    }
+  ],
+  "title": "Productos Generico"
+}

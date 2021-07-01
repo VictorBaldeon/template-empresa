@@ -1,0 +1,17 @@
+{
+  "id": "gix-simple",
+  "colors": {
+    "primaryBgText": "#ffffff",
+    "secondaryBgText": "#ffffff",
+    "primary": "#f52093",
+    "secondary": "#17e8c3"
+  },
+  "options": {
+    "shape": {
+      "mode": "normal"
+    },
+    "basic": {
+      "image": ""
+    }
+  }
+}

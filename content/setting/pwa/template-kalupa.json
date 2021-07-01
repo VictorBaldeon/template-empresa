@@ -1,0 +1,14 @@
+{
+  "favicon": {
+    "16": "/images/kalupa-fav.png",
+    "32": "/images/kalupa-fav.png"
+  },
+  "social": {
+    "all": "/images/kalupa-social.png"
+  },
+  "icons": {
+    "180": "/images/kalupa-social.png",
+    "192": "/images/kalupa-social.png",
+    "512": "/images/kalupa-social.png"
+  }
+}

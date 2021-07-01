@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Contacto",
+    "icon": "mdi:store"
+  },
+  "title": "Template Kalupa",
+  "sections": [
+    {
+      "name": "Catalogo",
+      "section": "/section/menus/template-kalupa",
+      "icon": "mdi:text-box"
+    }
+  ]
+}

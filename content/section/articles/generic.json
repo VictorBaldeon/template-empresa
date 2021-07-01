@@ -1,12 +1,5 @@
 {
   "title": "Articulo Generico",
-  "description": "![logo](/images/metis.svg \"logo\")\n\n# Grupo Empresarial de Inversiones Nacional Vida\n\nEs una corporación empresarial de inversiones que asegura la sinergia entre sus empresas, velando por la rentabilidad y valor agregado de sus  accionistas, contribuyendo al desarrollo económico del país.\n\nEstá conformado por las compañías: Nacional Seguros Vida y Salud, Nacional Seguros Patrimoniales y Fianzas, Clínica de las Américas, Tecorp, Conecta y Xperience; en Bolivia, así como por Fenix Seguros y Reaseguros en Paraguay.\n\nEl objetivo principal es brindar a través de las compañías que lo componen una variedad de servicios y productos que generan compromiso, seguridad y bienestar a las familias bolivianas, ofreciendo protección y contribuyendo a  mejorar la calidad de vida de nuestra gente.",
-  "redes": [
-    {
-      "hide": false,
-      "url": "/",
-      "ref": "2021-03-22-facebook",
-      "name": "Facebook"
-    }
-  ]
+  "description": "![logo](/images/metis.svg \"logo\")\n\n# Aqui el nombre de tu empresa\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+  "redes": []
 }

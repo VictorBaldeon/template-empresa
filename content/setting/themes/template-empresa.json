@@ -15,7 +15,9 @@
       "mode": "normal"
     },
     "basic": {
-      "image": "/images/biasol-officina-biasol-offices-archello.1597751487.6512.jpg"
+      "image": "/images/biasol-officina-biasol-offices-archello.1597751487.6512.jpg",
+      "hideBottomLabel": false,
+      "hideBottomNav": false
     }
   }
 }

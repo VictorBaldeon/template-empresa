@@ -21,6 +21,11 @@
       "icon": "mdi:briefcase"
     },
     {
+      "name": "Videos",
+      "section": "/section/youtube/generic",
+      "icon": "fa-brands:youtube"
+    },
+    {
       "name": "Contactanos",
       "type": "Urls_Externos",
       "id": "contact",

@@ -2,7 +2,7 @@
   "name": "@gcards/template-free",
   "version": "1.0.0",
   "description": "Generator",
-  "author": "Andres Navarrete",
+  "author": "Victor Baldeón",
   "license": "MIT",
   "private": true,
   "scripts": {},
